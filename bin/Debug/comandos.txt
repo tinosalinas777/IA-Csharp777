@@ -13,7 +13,6 @@ salir
 mostrar comandos
 ocultar comandos 
 detectar rostros
-lee para lili
 contame un chiste
 gracias
 elena
